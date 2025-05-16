@@ -1,0 +1,9 @@
+github_users:
+  - seangao1
+
+repo_description_lines_max: 2
+
+github_repos:
+  - seangao1/SG-GPT-SLM
+  - seangao1/Online-Store-Project
+  - seangao1/LSTM-stock-price-forecast/blob/master/S_Gao_ML_Project_Stocks_with_LSTM_model.ipynb
