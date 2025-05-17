@@ -34,12 +34,19 @@ This is Sean Gao. I'm currently a senior analyst at Deloitte. My research vision
 
 ### Projects
 
-1. [Small Language Model Project](https://github.com/seangao1/SG-GPT-SLM)
+[Small Language Model Project](https://github.com/seangao1/SG-GPT-SLM)
 
 - Built a character-level multi-head transformer-based language model from scratch, featuring 25.28M parameters
 - Embedding dimension: 512; Number of heads: 8; Head size: 64; Number of hidden layers: 8
 - Designed to autocomplete text given a prompt
 - Stack: **PyTorch, Neural Network, Object-Oriented Programming, Natural Language Processing.**
+
+
+[Stock price forecasting with LSTM model](https://github.com/seangao1/LSTM-stock-price-forecast/blob/master/S_Gao_ML_Project_Stocks_with_LSTM_model.ipynb)
+
+- Developing a framework for training a LSTM model to predict the closing stock price for IBM based on a variety of macro and micro economic factors, including GDP, various commodity prices, and indexes like NASDAQ and S&P500
+- Adopting statistical metrics to assess the performance of the models and selected a champion model
+- See [here](https://github.com/seangao1/LSTM-stock-price-forecast/blob/master/Predicting%20Stock%20Prices%20ML%20Project.pdf) for project report.
 
 ---
 
